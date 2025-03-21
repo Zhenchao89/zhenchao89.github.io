@@ -22,7 +22,7 @@ repository               : "zhenchao89.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lyu.jpg"
+  avatar           : "lyu.png"
   name             : "Zhenchao Lyu"
   pronouns         : # example: "she/her"  
   bio              : "Zhenchao Lyu's homepage"
