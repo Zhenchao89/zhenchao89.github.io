@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in mathematics, Sichuan University, 2018
+* M.S. in mathematics, Sichuan University, 2014
+* B.S. in mathematics, Sichuan University, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019.10--- 
+  * Sichuan University
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.8-2019.8: Postdoc
+  * ENS Paris-Saclay University
+  * Supervisor: Jean Goubault-Larrecq
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+
+
   
 Skills
 ======
